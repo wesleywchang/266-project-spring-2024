@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+ Explicit HS       0.75      0.80      0.78      1501
+ Implicit HS       0.00      0.00      0.00       186
+      Not HS       0.86      0.89      0.88      2681
+
+    accuracy                           0.82      4368
+   macro avg       0.54      0.56      0.55      4368
+weighted avg       0.79      0.82      0.80      4368

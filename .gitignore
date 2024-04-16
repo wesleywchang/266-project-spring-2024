@@ -166,3 +166,10 @@ cython_debug/
 *Icon'\r'*
 
 *DS_Store*
+checkpoint*
+events.out.tfevents.*
+hateBERT-*-binary*
+naive-predictor
+*.lock
+*.xlsx
+*.gz
